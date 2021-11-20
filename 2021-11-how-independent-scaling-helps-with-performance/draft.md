@@ -17,7 +17,7 @@
 ### A and B not calling each other 
 #### Say B has a minimum CU
 
-Scenario 1: A and B not calling each other, Requests 50% : 50% 
+Scenario 1: A and B not calling each other, Requests 1:1 
 If bundled ...
 If independent ...
 
