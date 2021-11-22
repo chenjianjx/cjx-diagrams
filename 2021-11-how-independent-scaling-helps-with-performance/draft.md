@@ -11,7 +11,7 @@
 
 ## People say that if ... then ....  Is that real?  Will the overrall ... ?  Now let's use some examples. 
 
-### Assumptions: Capacity Unity of A, B
+### Assumptions: Compute Units of A, B
 
 
 ### A and B not calling each other 
@@ -29,18 +29,6 @@ Scenario 3: A and B not calling each other, Requests 1 : 2
 If bundled ...
 If independent ...
 
-#### What if B doesn't have a minimum CU
-Scenario 1: A and B not calling each other, Requests 50% : 50%
-If bundled ...
-If independent ...
-
-Scenario 2: A and B not calling each other, Requests 2 : 1
-If bundled ...
-If independent ...
-
-Scenario 3: A and B not calling each other, Requests 1 : 2
-If bundled ...
-If independent ...
 
 #### A summary of "A and B non dependency"
 
@@ -65,3 +53,5 @@ A summary of B calls A
 
 ## Conclusion
 xxx
+
+## TL&DR;
